@@ -1,0 +1,5 @@
+.calculadora {
+    display: grid;
+    grid-template-rows: 80px repeat(5, 50px);
+    grid-template-columns: repeat(4, 50px);
+}

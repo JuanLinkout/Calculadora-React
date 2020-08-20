@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Ubuntu;
+    src: url(../assets/fonts/Ubuntu-Regular.ttf);
+}
+
+* {
+    font-family: Ubuntu;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

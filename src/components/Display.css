@@ -1,0 +1,13 @@
+.display {
+    display: flex;
+    justify-content: flex-end;
+    border: solid 2px rgb(67, 67, 67);
+    height: 80px;
+    box-sizing: border-box;
+    grid-column-end: span 4;
+    overflow: hidden;
+}
+
+.display h1 {
+    padding-right: 20px;
+}
